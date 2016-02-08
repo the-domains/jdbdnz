@@ -1,0 +1,28 @@
+name: jdbdnz
+favicon: null
+layout_spectrum: 0.5697747769299895
+typography_spectrum: 0.481031276518479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8020003291312605
+  lightness: 0.8369884598068893
+  saturation: 0.2695667687803507
+  rhythmicContrast: 0.9355531106702983
+purpose: []
