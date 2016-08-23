@@ -1,20 +1,4 @@
-name: jdbdnz
-favicon: null
-layout_spectrum: 0.97495
 typography_spectrum: 0.91137
-title: vanity_schmanity
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#92d0f1'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.97495
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: jdbdnz
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: vanity_schmanity
 purpose: []
